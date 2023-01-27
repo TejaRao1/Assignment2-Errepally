@@ -7,9 +7,15 @@ Vollball is in team sport which needs teamwork and coordination. It helps us dev
 **I am from India**
 
 CITIZENSHIP
---- Citizenship is givin in order as a prof that the person belongs to a puticular country. I am an Indian citizen
-
+--- 
+Citizenship is givin in order as a prof that the person belongs to a puticular country. I am an Indian citizen
+---
 Poland Vollyball Team
-    Lipinski Bartlomiej
-    Muzaj Maciej
-    Popiwczak Jakub
+1. Lipinski Bartlomiej
+2. Muzaj Maciej
+3. Popiwczak Jakub
+
+## Italy Vollyball Team
+* Ivan Zaytsev
+* Simone Giannelli
+* Daniele Lavia
