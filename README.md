@@ -36,4 +36,22 @@ Poland Vollyball Team
 
 **My mother always used to say: The older you get, the better you get, unless you’re a banana.**(***Rose***)
 
+***
+# Code Fencing
 
+[Question on JQuery-StackOverFlaow]{https://stackoverflow.com/questions/7992342/run-javascript-function-when-the-dom-is-ready}
+
+~~~
+$("#slideshow > div:gt(0)").hide();
+
+setInterval(function() { 
+  $('#slideshow > div:first')
+  .fadeOut(1000)
+  .next()
+  .fadeIn(1000)
+  .end()
+  .appendTo('#slideshow');
+}, 3000);
+~~~
+
+[css-tricks using code fencing]{https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/}
