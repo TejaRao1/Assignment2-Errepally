@@ -21,3 +21,13 @@ Poland Vollyball Team
 * Daniele Lavia
 
 [Link to my Aboutme file]{https://github.com/TejaRao1/Assignment2-Errepally/blob/main/AboutMe.md}
+
+***
+# Countries
+|Country Name|Reason|Number of Days|
+| --- | --- | ---: |
+| India | Culture | 30 |
+| Indonasia | Beaches | 10 |
+| Thailand | Night Life | 7 |
+| Dubai | Advancements | 10 |
+***
